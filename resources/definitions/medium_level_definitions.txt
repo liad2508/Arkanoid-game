@@ -1,0 +1,47 @@
+
+START_LEVEL
+level_name:Who is the best
+ball_velocities:-45,7 45,7
+background:image(background_images/messi.jpg)
+paddle_speed:10
+paddle_width:160
+block_definitions:definitions/messi_block_definitions.txt
+blocks_start_x:50
+blocks_start_y:-343
+row_height:100
+num_blocks:15
+START_BLOCKS
+-
+-
+-
+-
+-bbbbb--
+-bbbbb--
+-bbbbb--
+END_BLOCKS
+END_LEVEL
+
+
+
+START_LEVEL
+level_name:I Love Football
+ball_velocities:-50,7 50,7
+background:image(background_images/football.jpg)
+paddle_speed:8
+paddle_width:160
+block_definitions:definitions/ball_block_definitions.txt
+blocks_start_x:-10
+blocks_start_y:-60
+row_height:60
+num_blocks:28
+START_BLOCKS
+-
+-
+-
+-
+-b-b-b-b-b-b-b-
+-a-a-a-a-a-a-a-
+-b-b-b-b-b-b-b-
+-a-a-a-a-a-a-a-
+END_BLOCKS
+END_LEVEL
