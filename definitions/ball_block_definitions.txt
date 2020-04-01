@@ -1,0 +1,13 @@
+# default values for blocks
+default height:60 width:60 stroke:color(black)
+
+# block definitions
+bdef symbol:b hit_points:2 fill:image(block_images/ball.jpg) fill-2:image(block_images/newball.jpg)
+bdef symbol:a hit_points:2 fill:image(block_images/newball.jpg) fill-2:image(block_images/ball.jpg)
+
+# spacers definitions
+sdef symbol:- width:50
+
+
+
+

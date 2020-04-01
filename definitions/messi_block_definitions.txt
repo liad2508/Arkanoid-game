@@ -1,0 +1,13 @@
+# default values for blocks
+default height:120 width:120 stroke:color(black)
+
+# block definitions
+bdef symbol:a hit_points:1 fill:image(block_images/ronaldo.jpg)
+bdef symbol:b hit_points:2 fill:image(block_images/ronaldo.jpg) fill-2:image(block_images/ronaldoo.jpg)
+
+# spacers definitions
+sdef symbol:- width:50
+
+
+
+
